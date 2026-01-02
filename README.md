@@ -48,7 +48,7 @@ Example of email classification result using user input.
 ## ⚙️ Installation & Setup
 
 ### 1️⃣ Clone the repository
-```bash
+```
 git clone https://github.com/your-username/email-spam-detection.git
 cd email-spam-detection
 
@@ -93,41 +93,28 @@ Result: Spam
 🔹 Evaluate Model Performance
 
 python training/evaluate.py
-
+```
 This script visualizes the model’s accuracy and evaluation metrics.
 📈 Evaluation Metrics
-
-    Accuracy
-
-    Precision
-
-    Recall
-
-    F1-Score
+- Accuracy
+- Precision
+- Recall
+- F1-Score
 
 🧠 Algorithm Used
-
-    Multinomial Naïve Bayes
-
-    TF-IDF (Term Frequency–Inverse Document Frequency)
+- Multinomial Naïve Bayes
+- TF-IDF (Term Frequency–Inverse Document Frequency)
 
 🎓 Academic Purpose
-
 This project is intended for:
-
-    Artificial Intelligence coursework
-
-    Machine learning demonstrations
-
-    Educational research and experimentation
+- Artificial Intelligence coursework
+- Machine learning demonstrations
+- Educational research and experimentation
 
 📎 References
-
-    T. M. Mitchell, Machine Learning, McGraw-Hill, 1997
-
-    A. McCallum and K. Nigam, “A comparison of event models for Naïve Bayes text classification,” 1998
-
-    Kaggle Email Spam Classification Dataset
+- T. M. Mitchell, Machine Learning, McGraw-Hill, 1997
+- A. McCallum and K. Nigam, “A comparison of event models for Naïve Bayes text classification,” 1998
+- Kaggle Email Spam Classification Dataset
 
 👤 Authors
 
