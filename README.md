@@ -16,29 +16,6 @@ This project was developed for an academic AI assignment and demonstrates the fu
 
 ---
 
-## 📂 Project Structure
-
-email-spam-extension/
-│
-├── training/
-│ ├── train.py # Train the spam detection model
-│ ├── classify_email.py # Classify user input emails
-│ ├── evaluate.py # Model evaluation & visualization
-│ ├── spam_model.pkl # Trained model (auto-generated)
-│ ├── vectorizer.pkl # TF-IDF vectorizer (auto-generated)
-│ └── spam.csv # Dataset
-│
-├── screenshots/ # Screenshots for documentation
-│ ├── dataset_distribution.png
-│ ├── system_workflow.png
-│ └── classification_result.png
-│
-├── requirements.txt
-└── README.md
-
-
----
-
 ## 📊 Dataset
 The dataset used in this project is obtained from **Kaggle** and consists of labeled email messages.
 
