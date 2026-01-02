@@ -101,22 +101,22 @@ This script visualizes the model’s accuracy and evaluation metrics.
 - Recall
 - F1-Score
 
-🧠 Algorithm Used
+## 🧠 Algorithm Used
 - Multinomial Naïve Bayes
 - TF-IDF (Term Frequency–Inverse Document Frequency)
 
-🎓 Academic Purpose
+## 🎓 Academic Purpose
 This project is intended for:
 - Artificial Intelligence coursework
 - Machine learning demonstrations
 - Educational research and experimentation
 
-📎 References
+##📎 References
 - T. M. Mitchell, Machine Learning, McGraw-Hill, 1997
 - A. McCallum and K. Nigam, “A comparison of event models for Naïve Bayes text classification,” 1998
 - Kaggle Email Spam Classification Dataset
 
-👤 Authors
+##👤 Authors
 
 Darryl Arief Tananjaya
 Muhhamad Zharfan Agustiansyah
