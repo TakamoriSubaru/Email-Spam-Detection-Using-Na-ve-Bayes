@@ -1,23 +1,13 @@
-# Python
+# Virtual environment
+.venv/
+venv/
+
+# Dataset (too large)
+emails.csv
+
+# Python cache
 __pycache__/
 *.pyc
-*.pyo
-*.pyd
-
-# Virtual environment (KEEP if you want to upload it)
-# REMOVE this line if you want .venv uploaded
-# .venv/
-
-# Environment variables
-.env
-
-# Build / distribution
-build/
-dist/
-*.egg-info/
-
-# Node / frontend junk
-node_modules/
 
 # OS files
 .DS_Store
